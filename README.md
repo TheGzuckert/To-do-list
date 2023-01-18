@@ -10,7 +10,7 @@ Progama desenvolvido para estudo
 
 `npm install react-icons --save`
 
-### Rodar o programa:
+## Rodar o programa:
 `npm start`
 
 ### O projeto devera ter atualizações e melhorias com o tempo
